@@ -22,3 +22,5 @@
 ## 參考
 [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)  
 [https://github.com/jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)  
+[https://github.com/uhub/awesome-cpp](https://github.com/uhub/awesome-cpp)  
+[https://github.com/rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)  
