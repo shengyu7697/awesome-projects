@@ -12,5 +12,16 @@
 [sleep 跨平台](https://github.com/vurtun/mmx/blob/f0ef47edc2077bc498880f7d3032c37e68f79219/tests/web_test.c#L52)  
 [doAccept](https://github.com/starwing/znet/blob/2e0efcb2e937cec098d5366d95fd01b8a1b01324/znet.hpp#L93)  
 
+跨平台寫法
+```
+#if defined( _WIN32 )
+    
+#elif defined( __linux__ ) || defined( __APPLE__ ) || defined( __ANDROID__ )
+
+#else 
+        #error Unknown platform.
+#endif
+```
+
 ## 參考
 [single_file_libs](https://github.com/nothings/single_file_libs)  
