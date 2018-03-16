@@ -13,7 +13,7 @@
 [doAccept](https://github.com/starwing/znet/blob/2e0efcb2e937cec098d5366d95fd01b8a1b01324/znet.hpp#L93)  
 
 跨平台寫法
-```
+```c
 #if defined( _WIN32 )
     
 #elif defined( __linux__ ) || defined( __APPLE__ ) || defined( __ANDROID__ )
