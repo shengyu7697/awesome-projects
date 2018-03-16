@@ -15,6 +15,8 @@
 [如何深刻理解reactor和proactor？](https://www.zhihu.com/question/26943938)  
 [sleep 跨平台](https://github.com/vurtun/mmx/blob/f0ef47edc2077bc498880f7d3032c37e68f79219/tests/web_test.c#L52)  
 [doAccept](https://github.com/starwing/znet/blob/2e0efcb2e937cec098d5366d95fd01b8a1b01324/znet.hpp#L93)  
+[close() 與 shutdown()](http://beej-zhtw.netdpi.net/05-system-call-or-bust/5-9-close-and-shutdown)  
+[https://github.com/libimobiledevice/libusbmuxd/blob/master/src/libusbmuxd.c](https://github.com/libimobiledevice/libusbmuxd/blob/master/src/libusbmuxd.c)  
 
 跨平台寫法
 ```c
