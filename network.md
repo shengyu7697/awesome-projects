@@ -18,7 +18,7 @@
 [close() 與 shutdown()](http://beej-zhtw.netdpi.net/05-system-call-or-bust/5-9-close-and-shutdown)  
 [https://github.com/libimobiledevice/libusbmuxd/blob/master/src/libusbmuxd.c](https://github.com/libimobiledevice/libusbmuxd/blob/master/src/libusbmuxd.c)  
 
-跨平台寫法
+**跨平台寫法**
 ```c
 #if defined( _WIN32 )
     
