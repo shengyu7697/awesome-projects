@@ -1,5 +1,5 @@
-# library
-這裡收集一些簡單使用輕巧的函式庫.  
+# network
+這裡收集一些簡單使用輕巧的網路函式庫.  
 
 ## 網路
 | library                                                               | API |files| description | stars
