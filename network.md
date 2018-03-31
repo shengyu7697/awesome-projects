@@ -8,8 +8,8 @@
 |**[sts_net](https://github.com/kieselsteini/sts)**                     |C/C++|**1**| cross-platform socket wrapper (socket sets and packet API) | ![GitHub stars](https://img.shields.io/github/stars/kieselsteini/sts.svg?style=social&label=Star)
 |  [znet](https://github.com/starwing/znet)                             |C/C++|**1**| cross-platform networking w/ Lua binding | ![GitHub stars](https://img.shields.io/github/stars/starwing/znet.svg?style=social&label=Star)
 |  [mm_web.h](https://github.com/vurtun/mmx)                            |C/C++|**1**| lightweight webserver, fork of webby | [![GitHub stars](https://img.shields.io/github/stars/vurtun/mmx.svg?style=social&label=Star)](https://github.com/vurtun/mmx)
-|  [evpp](https://github.com/Qihoo360/evpp)                             |C/C++|     |
-|  [dyad](https://github.com/rxi/dyad)                                  |C/C++|     |
+|  [evpp](https://github.com/Qihoo360/evpp)                             |C/C++|     | A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols. | ![GitHub stars](https://img.shields.io/github/stars/Qihoo360/evpp.svg?style=social&label=Star)
+|  [dyad](https://github.com/rxi/dyad)                                  |C/C++|     | Asynchronous networking for C | ![GitHub stars](https://img.shields.io/github/stars/rxi/dyad.svg?style=social&label=Star)
 |  [librws](https://github.com/OlehKulykov/librws)                      |C/C++|     | Tiny, cross platform websocket client C library | ![GitHub stars](https://img.shields.io/github/stars/OlehKulykov/librws.svg?style=social&label=Star)
 
 [如何深刻理解reactor和proactor？](https://www.zhihu.com/question/26943938)  
